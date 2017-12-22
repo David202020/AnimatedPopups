@@ -1,5 +1,8 @@
 text:
-'You are playing on "put your server name here", have a good time {name}!!!'
+- 'You are playing on "put your server name here", have a good time {name}!!!'
+-
+-
+-
 interval: 1
 random: false
 
